@@ -12,7 +12,7 @@
 <img align="right" alt="diana" width="90" height="180" src="https://i.ibb.co/Y3Z9sZX/space.png"><img align="left" alt="diana" width="160" src="https://i.ibb.co/5hGY77j/small-avatar.png">
 <p align="left"> I'm Diana Marmol, previously a freelance character designer with over 8 years of experience working for amazing clients like Figma, DreamWorksTV and Nickelodeon.
   
-Now I'm a junior fullstack developer who has decided to focus on mixing art and code to create full, beautiful and interactive experiences. </p>
+Now I'm a junior fullstack developer who has decided to focus on mixing art and code to create full, beautiful and interactive experiences.<img src="./Sparkles.svg" alt="Portfolio" width="16" height="18"/></p>
 
 
 <br>  
