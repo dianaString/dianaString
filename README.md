@@ -13,7 +13,7 @@ Now I'm a junior fullstack developer who has decided to focus on mixing art and 
 <br>  
 
 <p align="center">
-   <a href="https://github.com/dianaString"><img src="./Portfolio.svg" alt="Portfolio" width="140"/></a>
+   <a href="https://dianastring.github.io/portfolio/"><img src="./Portfolio.svg" alt="Portfolio" width="140"/></a>
    <a href="https://es.linkedin.com/in/dianammarmol"><img src="./Linkedin.svg" alt="linkedin" width="140"/></a>
 </p>
 
