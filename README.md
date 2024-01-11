@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">    
-  <img src="./line technologies.png" alt="Portfolio" width="340"/>
+  <img src="./line technologies.png" alt="Portfolio" width="360"/>
 </p>
 
 <p align="center">
